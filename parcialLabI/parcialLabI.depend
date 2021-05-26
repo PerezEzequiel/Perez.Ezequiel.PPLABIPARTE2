@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1621431697 source:c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\datos.c
+	<stdio.h>
+	<stdlib.h>
+	"Datos.h"
+	"string.h"
+	"ctype.h"
+
+1621389516 c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\datos.h
+
+1621366211 source:c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"datos.h"
+
+1622034424 c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\fecha.h
+
+1622036719 source:c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"datos.h"
+	"informes.h"
+
+1621116107 source:c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ctype.h"
+	"menu.h"
+
+1621889081 c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\menu.h
+
+1622034593 source:c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1622034324 c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\datawarehouse.h
+	"trabajo.h"
+
+1622035761 source:c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datos.h"
+	"bicicleta.h"
+	"menu.h"
+
+1622033090 source:c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1622033157 source:c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1622033209 source:c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datos.h"
+	"trabajo.h"
+	"menu.h"
+
+1621889056 c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\tipo.h
+
+1622033979 c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\color.h
+
+1621888629 c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\servicio.h
+
+1622033934 c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\bicicleta.h
+	"color.h"
+	"tipo.h"
+
+1622033147 source:c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1622035047 c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\trabajo.h
+	"bicicleta.h"
+	"servicio.h"
+	"fecha.h"
+
+1622037259 source:c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datos.h"
+	"informes.h"
+	"menu.h"
+
+1622036981 c:\users\ezequ\desktop\facultad, 1er cuatrimestre\programacion i\practicas\parciallabi\informes.h
+	"datawarehouse.h"
+
